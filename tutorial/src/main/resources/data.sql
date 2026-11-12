@@ -30,3 +30,12 @@ INSERT INTO game(title, age, category_id, author_id)
 VALUES ('Los viajes de Marco Polo', '12', 1, 3);
 INSERT INTO game(title, age, category_id, author_id)
 VALUES ('Azul', '8', 3, 5);
+
+INSERT INTO client(name)
+VALUES ('Cliente 1');
+INSERT INTO client(name)
+VALUES ('Cliente 2');
+INSERT INTO client(name)
+VALUES ('Cliente 3');
+INSERT INTO client(name)
+VALUES ('Cliente 4');
